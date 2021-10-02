@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "285002206706",
+    "project_id": "kanamnew-5b59e",
+    "storage_bucket": "kanamnew-5b59e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285002206706:android:e58cacdbc0ea7da77f2f6b",
+        "android_client_info": {
+          "package_name": "com.example.kanamnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285002206706-9c96mnk18vkjncnk32og60d2f56juj50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kanamnew",
+            "certificate_hash": "9762bbbf7dc84f7ccd2c8d6cad8fc6bac8c321c1"
+          }
+        },
+        {
+          "client_id": "285002206706-kprdek5amjm1i5vml6r028fd6hagn2t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpHWmGV04-_7mlLMZuiGWeG4cHPbbbYbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285002206706-kprdek5amjm1i5vml6r028fd6hagn2t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
